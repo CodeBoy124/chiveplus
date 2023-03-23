@@ -1,4 +1,5 @@
 # Chive+
+![Chive+ logo](./img/logo.png)
 ## Overview
 Chive+ is a *modern programming language* that is designed to make programming more *enjoyable* and *simpler*. It has many features that make it easy to read, write and maintain.
 
@@ -79,7 +80,7 @@ The import statement is a 'build comment', some code that can be imagened to run
 ### Constant definitions
 Chive+ allows you to write constant. This is also a build comment. it replaces all matches of the name inside the actual code with the defined value
 
-```
+```dart
 #define MSG Hello, World!
 print("MSG")
 ```

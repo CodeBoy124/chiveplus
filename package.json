@@ -1,0 +1,21 @@
+{
+  "name": "chive+",
+  "version": "1.0.0",
+  "description": "A transpiled programming language to convert to both Dart and JavaScript",
+  "main": "./bin/chv.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+	  "chv": "./bin/chv.js"
+  },
+  "keywords": [
+    "chive+"
+  ],
+  "author": "CodeBoy124",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}

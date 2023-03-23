@@ -1,0 +1,15 @@
+#import IntToString from Convert.scr
+#define MAX 10
+void FizzBuzz() {
+  for(int i = 1; i <= MAX; i++){
+    if(i % 15 == 0){
+      print("FizzBuzz");
+    } else if(i % 5 == 0){
+      print("Buzz");
+    } else if(i % 3 == 0){
+      print("Fizz");
+    } else {
+      print(Convert.IntToString(I));
+    }
+  }
+}

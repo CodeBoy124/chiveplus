@@ -3,6 +3,7 @@
 Chive+ is a *modern programming language* that is designed to make programming more *enjoyable* and *simpler*. It has many features that make it easy to read, write and maintain.
 
 The Chive+ language is *transpiled* into *Dart* and *JavaScript*, making it easily accessible to web developers. This transpilation ensures that any Chive+ code can be run on any platform that supports Dart and JavaScript.
+You are currently viewing the school branch which holds a copy that should not be altered by anyone besides the creator, me (CodeBoy124)
 
 ## Getting Started
 To get started with Chive+ language, you need to have an editor installed on your computer, such as Visual Studio Code Studio or Neovim. Once you have the editor installed, you can create a new file with the .chv extension.

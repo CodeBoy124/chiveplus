@@ -1,5 +1,5 @@
 {
-  "name": "chive+",
+  "name": "chiveplus",
   "version": "1.0.0",
   "description": "A transpiled programming language to convert to both Dart and JavaScript",
   "main": "./bin/chv.js",

@@ -10,7 +10,7 @@ To get started with Chive+ language, you need to have an editor installed on you
 Before you can use the cli tool you do need to of course install it.
 This can be done by running the following. You do need to have npm installed
 ```console
-npm install -g chv
+npm install -g chiveplus
 ```
 
 To initialize a project run the following

@@ -9,9 +9,9 @@ You are currently viewing the school branch which holds a copy that should not b
 ## Getting Started
 To get started with Chive+ language, you need to have an editor installed on your computer, such as Visual Studio Code Studio or Neovim. Once you have the editor installed, you can create a new file with the .chv extension.
 Before you can use the cli tool you do need to of course install it.
-This can be done by running the following. You do need to have npm installed
+This can be done by first downloading the code from github to you local machine and then running the following in the root of the local clone. You do need to have npm installed
 ```console
-npm install -g chiveplus
+npm install -g .
 ```
 
 To initialize a project run the following
